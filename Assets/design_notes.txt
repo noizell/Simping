@@ -1,0 +1,9 @@
+ada satu karakter
+-sendiri (simp simulator).
+-banyak npc.
+-npc digebukin trus gabung sama kita.
+
+
+simp simulator (3D)
+-kita buat npc simp ke player.
+-dalam waktu 3 menit kumpulkan sebanyak mungkin para manusia kurang sehat.
